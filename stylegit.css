@@ -1,0 +1,27 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F3FFFE;
+}
+code{
+    color: red;
+    font-size: 25px;
+    margin-left: 9px;
+}
+code:hover{
+    color:lime;
+}
+h1,h2{
+    text-align: center;
+}
+
+table{
+    margin-left: 320px;
+    height: 200px;
+    font-size: 24px;
+}
+p{   
+    border-left: red solid 4px;
+}
+p:hover{
+    border-left: lime solid 4px;
+}
